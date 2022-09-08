@@ -1,0 +1,18 @@
+
+
+.card{
+  width: 15rem;
+}
+
+body {
+  display: flex;
+  background-color: lightgray;
+  
+}
+
+img{
+  width: 8rem;
+  height: 8rem;
+}
+
+
